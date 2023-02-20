@@ -12,7 +12,7 @@ For example, the DeBERTa-V3-Base TEAM model on the RACE dataset can be trained a
 python train_race.py --name "microsoft/deberta-v3-base" --epochs 5 --lr 3e-6 --shuffle
 ```
 
-You can use the appropriate training scripts for the other dataset. Running the scripts will print an Instance Acc, which is the main MCQA task accuracy reported in the Table 2 and 3 of our paper. 
+You can use the appropriate training scripts for the other dataset. Running the scripts will print an Instance Acc.
 
 The Score models can be benchmarked using the run_mcqa_score.py script. The scirpt is adapted from the repository of the paper [Two is Better than Many? Binary Classification as an Effective Approach to Multi-Choice Question Answering](https://github.com/declare-lab/TEAM).
 
