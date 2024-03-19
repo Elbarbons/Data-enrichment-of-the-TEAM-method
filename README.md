@@ -1,6 +1,6 @@
 # Data enrichment of Binary Classification as an Effective Approach to Multi-Choice Question Answering
 ----
-The repository contains the implementation of the paper "Data enrichment of Binary Classification as an Effective Approach to Multi-Choice Question Answering".
+The repository contains the implementation and the multi-lingual enrichment based on the work proposed in the paper "Data enrichment of Binary Classification as an Effective Approach to Multi-Choice Question Answering".
 
 ## Overview
 
